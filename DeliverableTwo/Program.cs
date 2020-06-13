@@ -11,13 +11,19 @@ namespace DeliverableTwo
             string input = Console.ReadLine().ToUpper();
 
             int checksum = 0;
-            for (int counter =0; counter < input.Length; counter++)
+            string message = "Your encoded message is: ";
+            for (int counter = 0; counter < input.Length; counter++)
             {
-                Console.WriteLine((int)input[counter]);
+                int encodedValue = (int)input[counter] - 64;
+                message += encodedValue.ToString();
+                if (counter < input.Length - 1)
+                {
+                    message += "-";
+                }
                 checksum += (int)input[counter];
             }
-
-            Console.WriteLine("Checksum Value:" + checksum);
+            Console.WriteLine(message);
+            Console.WriteLine("Message checksum value:" + checksum);
         }
     }
 }
