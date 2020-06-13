@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace DeliverableTwo
 {
@@ -6,7 +7,17 @@ namespace DeliverableTwo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Please input your message");
+            string input = Console.ReadLine().ToUpper();
+
+            int checksum = 0;
+            for (int counter =0; counter < input.Length; counter++)
+            {
+                Console.WriteLine((int)input[counter]);
+                checksum += (int)input[counter];
+            }
+
+            Console.WriteLine("Checksum Value:" + checksum);
         }
     }
 }

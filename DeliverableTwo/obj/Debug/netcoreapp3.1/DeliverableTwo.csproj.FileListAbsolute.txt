@@ -1,0 +1,13 @@
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.exe
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.deps.json
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.runtimeconfig.json
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.runtimeconfig.dev.json
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.dll
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.pdb
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.csprojAssemblyReference.cache
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.AssemblyInfoInputs.cache
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.AssemblyInfo.cs
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.csproj.CoreCompileInputs.cache
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.dll
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.pdb
+C:\Users\alam\Source\Repos\DeliverableTwo\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.genruntimeconfig.cache
